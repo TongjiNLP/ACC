@@ -1,4 +1,6 @@
-# Correct before Answer: Enhancing Multi-Span Question Answering with Post-Processing Method
+# Correct after Answer: Enhancing Multi-Span Question Answering with Post-Processing Method
+
+![fig](./image/ACC.png)
 
 ## Enviroments
 
