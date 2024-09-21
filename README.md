@@ -104,7 +104,7 @@
       |- dev_results.json   # accuracy on the dev set
   ```
 
-  For the following inference steps, here you should move the directory `./output_cls/checkpoint-best` to `./MODEL` and rename it, for example, "cls_ckpt".
+  For the following inference steps, here we recommend you to move the directory `./output_cls/checkpoint-best` to `./MODEL` and rename it, for example, "cls_ckpt".
 
 ### Training the corrector
 
@@ -127,3 +127,8 @@
   ```
 
   The results are in `./output_acc/result.csv`, and the final outputs of the ACC framework are in `./output_acc/predictions_cor.json`
+
+## 0921 Update
+
+* This paper has been accepted as EMNLP 2024 Findings recently.
+* We update the image we use in README. Old image is renamed as `ACC-legacy.png` in the fold `image`.
