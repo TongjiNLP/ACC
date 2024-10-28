@@ -1,6 +1,6 @@
 # Correct after Answer: Enhancing Multi-Span Question Answering with Post-Processing Method
 
-![fig](./image/ACC.png)
+![fig](./image/ACC_20241028.png)
 
 ## Enviroments
 
@@ -128,7 +128,12 @@
 
   The results are in `./output_acc/result.csv`, and the final outputs of the ACC framework are in `./output_acc/predictions_cor.json`
 
-## 0921 Update
+## 20240921 Update
 
 * This paper has been accepted as EMNLP 2024 Findings recently.
 * We update the image we use in README. Old image is renamed as `ACC-legacy.png` in the fold `image`.
+
+## 20241028 Update
+
+* We have placed the preprint paper on arXiv (https://arxiv.org/pdf/2410.16788), and we also add the PDF file `ACC.pdf` to this repository.
+* We update the image again, which is now consistent to that used in the paper.
